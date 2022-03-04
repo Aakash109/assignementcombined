@@ -98,6 +98,5 @@ int main()
     root->right->right->right = new Node(15);
  
     printNodes(root);
- 
     return 0;
 }
