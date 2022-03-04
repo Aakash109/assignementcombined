@@ -31,7 +31,7 @@ public:
 	for(int i=0;i<rows;i++){
 	for(int j=0;j<columns;j++){
 		if(i==r && j==c){
-			a[i][j]=d;}
+			b[i][j]=d;}
 	}
 	}
 	}
